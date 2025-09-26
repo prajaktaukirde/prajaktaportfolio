@@ -1,0 +1,191 @@
+sidebar
+
+alt = Prajakta Ukirde
+Prajakta Ukirde
+Full Stack Developer | Data Analyst | AIML
+
+Show Contacts
+
+Email
+prajaktaukirde576@gmail.com
+
+Phone
++91 9112480174
+
+Birthday
+April 13, 2004
+
+Location
+Aurangabad, Maharashtra, India
+
+navbar
+
+About
+Resume
+Portfolio
+Contact
+
+about
+
+About me
+
+CSE ’27 student with a Minor in Cybersecurity, skilled in Java, Python, SQL, and Web Technologies. Experienced in Snowflake, Oracle Cloud, and data visualization tools (Tableau & Power BI). Certified in Cloud, Data Analytics, and Cybersecurity with hands-on exposure to real-world projects. Passionate about full-stack development, AI/ML, and Python-based automation projects.
+
+service
+
+What I'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = data analyst icon
+Data Analyst
+Data Analyst skilled in Python, SQL, and data visualization with interest in AI.
+
+resume
+
+Resume
+
+Education
+
+M.G.M's Jawaharlal Nehru College of Engineering
+2023 — 2027
+B.Tech in Computer Science & Engineering (CSE) – Minor in Cybersecurity | CGPA: 8.88
+
+Vidhyadam Jr. College
+2022
+XII (HSC) – 86%
+
+St. Lawrence High School
+2020
+X (SSC) – 88%
+
+Experience & Internships
+
+Cyber Security Intern – Prodigy InfoTech
+2025
+Selected for Cyber Security Internship Program. Gained hands-on experience, worked on security challenges, and strengthened practical cybersecurity skills.
+
+Software Development Intern – Cognifyz Technologies
+2025
+Worked on software development tasks, collaborating with team and implementing solutions as per requirements.
+
+Deloitte Cybersecurity Simulation
+2025
+Practical exposure to cybersecurity tasks through Deloitte Forage simulation programs.
+
+Deloitte Data Analytics Simulation
+2025
+Worked with SQL, Tableau, and Power BI on real-world data analytics workflows.
+
+Skills
+
+Programming Languages
+90%
+
+Data Analytics & Visualization (Tableau, Power BI)
+85%
+
+Web Development (HTML, CSS, JS, PHP)
+80%
+
+Cybersecurity
+75%
+
+Databases & Cloud (MySQL, SQLite, Snowflake, Oracle Cloud)
+80%
+
+Certifications
+
+SnowPro Associate – Snowflake
+Sep 2025
+
+Google Data Analytics Professional Certificate – Google/Coursera
+Mar 2024
+
+Introduction to Cyber Security – Cisco Networking Academy
+Feb 2025
+
+Oracle Cloud Infrastructure 2025 Certified DevOps Professional
+Sep 2025
+
+Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+Sep 2025
+
+portfolio
+
+Portfolio
+
+All
+Web development
+Applications
+Power BI
+C++
+Python
+
+Select category
+All
+Web development
+Applications
+Power BI
+C++
+Python
+
+Weather Dashboard
+Power BI
+GitHub Link
+
+Healthovia – Health & Wellness App
+Applications
+GitHub Link
+
+Blood Bank Manager
+Web development
+GitHub Link
+
+Prajakta Binance Bot
+Python
+GitHub Link
+
+Transaction Service
+Python
+GitHub Link
+
+Multi-Tenant Notes App
+Web development
+GitHub Link
+
+TrainReservation-Cpp
+C++
+GitHub Link
+
+contact
+
+Contact
+
+Full name
+Prajakta Ukirde
+
+Location
+Aurangabad, Maharashtra, India
+
+Email
+prajaktaukirde576@gmail.com
+
+Phone
++91 9112480174
+
+GitHub
+github.com/prajaktaukirde
+
+LinkedIn
+linkedin.com/in/prajakta-ukirde-395862381
