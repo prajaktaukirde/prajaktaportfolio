@@ -53,7 +53,8 @@ http://127.0.0.1:5500
 or http://<your-local-ip>:5500 on your phone (same Wi-Fi)
 
 📸 Screenshots
-Home	Portfolio
+
+
 <img width="700" height="500" alt="Screenshot 2025-09-26 092126" src="https://github.com/user-attachments/assets/28488498-bdb3-4fd2-aae8-20908b558b82" />
 <img width="700" height="500" alt="Screenshot 2025-09-26 092327" src="https://github.com/user-attachments/assets/fed435f1-f4eb-4f3c-a76a-d24fa3abbc4a" />
 <img width="700" height="500" alt="Screenshot 2025-09-26 092336" src="https://github.com/user-attachments/assets/1982437c-65e7-422b-b132-51a08cbd0326" />
